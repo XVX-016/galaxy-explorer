@@ -11,5 +11,3 @@ Milky Way: <b>Always <span style='color:#f0f;'>magenta</span></b><br>
 Bottom Left: <b>Galaxy Search by Name / Catalog Number</b><br>
 Bottom Right: <b>Distance from you</b></p>
 
-### [Link to the Simulation](https://riteshsingh.github.io/galaxies/)
-### [Link to the Paper](https://academic.oup.com/astrogeo/article/61/4/4.42/5873800)
